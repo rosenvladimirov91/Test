@@ -1,0 +1,37 @@
+{
+  "ProjectName": "test12",
+  "ProjectGuid": "f63deb8f-23ee-4b76-8a65-e7e681da8634",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.test12",
+  "DisplayName": "test12",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{b2f0e3fb-d8c7-42d2-a685-840b8f78f926}",
+  "WP8ProductID": "{5d3f1480-53cd-4974-a4ee-7759d4ea08cd}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
