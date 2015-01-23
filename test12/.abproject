@@ -2,7 +2,7 @@
   "ProjectName": "test12",
   "ProjectGuid": "f63deb8f-23ee-4b76-8a65-e7e681da8634",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.test12",
+  "AppIdentifier": null,
   "DisplayName": "test12",
   "Author": "",
   "Description": "",
