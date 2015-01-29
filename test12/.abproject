@@ -1,8 +1,8 @@
 {
-  "ProjectName": null,
+  "ProjectName": "test12",
   "ProjectGuid": "f63deb8f-23ee-4b76-8a65-e7e681da8634",
   "projectVersion": 1,
-  "AppIdentifier": null,
+  "AppIdentifier": "com.test12.teleri",
   "DisplayName": "test12",
   "Author": "",
   "Description": "",
